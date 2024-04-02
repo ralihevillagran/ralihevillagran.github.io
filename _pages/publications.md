@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile </a> and all preprint versions on [arXiv](https://arxiv.org/search/?query=ralihe&searchtype=all) </div>. 
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile </a> and all preprint versions on <a href="{{https://arxiv.org/search/?query=ralihe&searchtype=all}}">arXiv </div>. 
 {% endif %}
 
 {% include base_path %}
