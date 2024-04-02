@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-*Postdoctotal Scholar, August 2023 - current job
+* Postdoctotal Scholar, August 2023 - current job
   * Mathematical Sciences Department, Worcester Polytechnic Institute (WPI)
   * Research Mentor: Bill Martin
 * Postdoctoral Researcher, June 2022 -May 2023
