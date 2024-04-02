@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics, Department of Mathematics, Center for Research and Advanced Studies of the National Polytechnic Intitute (CINVESTAV-IPN), 2021
-  * [Math Genealogy (https://www.mathgenealogy.org/id.php?id=278914)][Advisors and Thesis Title on the Mathematics Genealogy Project]
+  * [Advisors and Thesis Title on the Mathematics Genealogy Project] (https://www.mathgenealogy.org/id.php?id=278914)]
     
 * M.S. in Mathematics, Department of Mathematics, Center for Research and Advanced Studies of the National Polytechnic Intitute (CINVESTAV-IPN), 2017.
 * B.S. in Mathematics, Faculty of Physics and Mathematics, Autonomous University of Sinaloa, Mexico, 2014
@@ -45,7 +45,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-[//]: # 
-(Service and leadership
-======
-* Currently signed in to 43 different slack teams)
+[//]: # (Service and leadership)
+[//]: #======
+[//]: # (*Currently signed in to 43 different slack teams)
