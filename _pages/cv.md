@@ -11,27 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, Department of Mathematics, Center for Research and Advanced Studies of the National Polytechnic Intitute (CINVESTAV-IPN), 2021
+* M.S. in Mathematics, Department of Mathematics, Center for Research and Advanced Studies of the National Polytechnic Intitute (CINVESTAV-IPN), 2017.
+* B.S. in Mathematics, Faculty of Physics and Mathematics, Autonomous University of Sinaloa, Mexico, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Postdoctotal Scholar, August 2023 - current job
+  *Mathematical Sciences Department, Worcester Polytechnic Institute (WPI)
+  *Research Mentor: Bill Martin
   
+* Postdoctoral Researcher, June 2022 -May 2023
+  *Department of Mathematics and Computer Science, Eindhoven University of Tech-
+nology (TU/e)
+  *Mentor: Aida Abiad
+
 Skills
 ======
 * Skill 1
