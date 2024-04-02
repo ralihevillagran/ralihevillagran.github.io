@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Joint work with: C. A. Alfaro, M. D. Barrus and J. Sinkovic'
 date: 2021-04-15
 venue: 'Linear Algebra and its Applications'
-paperurl: 'https://doi.org/10.1016/j.laa.2020.12.024'
+paperurl: 'http://rvillagran.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
