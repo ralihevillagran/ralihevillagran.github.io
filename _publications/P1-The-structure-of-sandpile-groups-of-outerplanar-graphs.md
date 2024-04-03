@@ -1,7 +1,7 @@
 ---
 title: "The structure of sandpile groups of outerplanar graphs"
 collection: publications
-permalink: /publication/P1-The-structure-of-sandpile-groups-of-outerplanar-graphs
+permalink: /publication/2021-15-04-The-structure-of-sandpile-groups-of-outerplanar-graphs
 excerpt: 'Joint work with: Carlos A. Alfaro'
 date: 2021-15-04
 venue: 'Applied Mathematics and Computation'
