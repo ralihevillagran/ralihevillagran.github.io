@@ -5,7 +5,7 @@ permalink: /publication/2021-04-15-Graphs-with-few-trivial-characteristic-ideals
 excerpt: 'Joint work with: C. A. Alfaro, M. D. Barrus and J. Sinkovic'
 date: 2021-04-15
 venue: 'Linear Algebra and its Applications'
-paperurl: 'http://ralihevillagran.github.io/files/paper2.pdf'
+paperurl: 'https://doi.org/10.1016/j.laa.2020.12.024'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
