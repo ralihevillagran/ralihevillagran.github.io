@@ -5,7 +5,7 @@ permalink: /publication/2022-05-01-Algorithmic-aspects-of-arithmetical-structure
 excerpt: 'Joint work with: Carlos E. Valencia'
 date: 2022-05-01
 venue: 'Linear Algebra and its Applications'
-paperurl: 'http://ralihevillagran.github.io/files/paper3.pdf'
+paperurl: 'https://doi.org/10.1016/j.laa.2022.01.020'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
