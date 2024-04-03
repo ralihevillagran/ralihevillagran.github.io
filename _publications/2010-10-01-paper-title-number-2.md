@@ -1,7 +1,7 @@
 ---
 title: "Graphs with few trivial characteristic ideals"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2021-04-15-Graphs-with-few-trivial-characteristic-ideals
 excerpt: 'Joint work with: C. A. Alfaro, M. D. Barrus and J. Sinkovic'
 date: 2021-04-15
 venue: 'Linear Algebra and its Applications'
