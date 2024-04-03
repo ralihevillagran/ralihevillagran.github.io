@@ -1,9 +1,9 @@
 ---
 title: "The structure of sandpile groups of outerplanar graphs"
 collection: publications
-permalink: /publication/2021-15-04-The-structure-of-sandpile-groups-of-outerplanar-graphs
+permalink: /publication/2021-04-15-The-structure-of-sandpile-groups-of-outerplanar-graphs
 excerpt: 'Joint work with: Carlos A. Alfaro'
-date: 2021-15-04
+date: 2021-04-15
 venue: 'Applied Mathematics and Computation'
 paperurl: 'http://ralihevillagran.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
