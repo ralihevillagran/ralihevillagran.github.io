@@ -17,7 +17,11 @@ Education
 * M.S. in Mathematics, Department of Mathematics, Center for Research and Advanced Studies of the National Polytechnic Intitute (CINVESTAV-IPN), 2017.
 * B.S. in Mathematics, Faculty of Physics and Mathematics, Autonomous University of Sinaloa, Mexico, 2014
 
-
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 [//]: # (Service and leadership)
 [//]: #======
