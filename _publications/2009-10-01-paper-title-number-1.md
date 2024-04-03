@@ -5,7 +5,7 @@ permalink: /publication/P1-The-structure-of-sandpile-groups-of-outerplanar-graph
 excerpt: 'Joint work with: Carlos A. Alfaro'
 date: 2021-15-04
 venue: 'Applied Mathematics and Computation'
-paperurl: 'http://rvillagran.github.io/files/paper1.pdf'
+paperurl: 'http://ralihevillagran.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
