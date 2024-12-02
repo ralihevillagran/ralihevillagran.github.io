@@ -3,9 +3,9 @@ title: "The Strong Spectral Property of Graphs: Graph Operations and Barbell Par
 collection: publications
 permalink: /publication/2024-02-06-The-Strong-Spectral-Property-of-Graphs:-Graph-Operations-and-Barbell-Partitions
 excerpt: 'Joint work with: S. Allred, E. Curl, S. Fallat, S. Nasserasr, H. Schuerger and P. K. Vishwakarma'
-date: 2025-04-01
-venue: 'Applied Mathematics and Computation'
-paperurl: 'https://doi.org/10.1016/j.amc.2024.129198'
+date: 2024-02-06
+venue: 'Graphs and Combinatorics'
+paperurl: 'https://doi.org/10.1007/s00373-023-02745-6'
 citation: 'S. Allred, E. Curl, S. Fallat, S. Nasserasr, H. Schuerger, R. R. Villagrán and P. K. Vishwakarma. &quot;The Strong Spectral Property of Graphs: Graph Operations and Barbell Partitions.&quot; <i>Graphs and Combinatorics</i>. 40, 20 (2024).'
 ---
 
