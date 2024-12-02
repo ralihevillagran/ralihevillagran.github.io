@@ -6,7 +6,7 @@ excerpt: 'Joint work with: Carlos E. Valencia'
 date: 2022-05-01
 venue: 'Linear Algebra and its Applications'
 paperurl: 'https://doi.org/10.1016/j.laa.2022.01.020'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Carlos E. Valencia and Ralihe R. Villagrán. &quot; Algorithmic aspects of arithmetical structures.&quot; <i>Linear Algebra and its Applications</i>. 640 (2022), Pages 191-208.'
 ---
 
 Arithmetical structures on graphs were first mentioned by D. Lorenzini. Later they were further studied on square non-negative integer matrices. In both cases, necessary and sufficient conditions for the finiteness of the set of arithmetical structures were given. Therefore, it is natural to ask for an algorithm that compute them. 
