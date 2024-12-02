@@ -1,5 +1,5 @@
 ---
-title: "The Characterization of Graphs Whose Sandpile Group has Fixed Number of Generators \\( ^{*} \\)"
+title: "The Characterization of Graphs Whose Sandpile Group has Fixed Number of Generators *"
 collection: publications
 permalink: /publication/2021-08-24-The-Characterization-of-Graphs-Whose-Sandpile-Group-has-Fixed-Number-of-Generators
 excerpt: 'Joint work with: C. A. Alfaro, M. D. Barrus and J. Sinkovic'
