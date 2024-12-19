@@ -11,21 +11,21 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+<p style="font-size:30px;"><b>Journal publications</b></p>
 {% for post in site.publications reversed %}
   {% if post.type == "Journal" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<p style="font-size:40px;">Refereed conference</p>
+<p style="font-size:30px;"><b>Refereed conference</b></p>
 {% for post in site.publications reversed %}
   {% if post.type == "Referred Conferences and Book Chapters" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<p style="font-size:40px;">Submitted</p>  
+<p style="font-size:40px;"><b>Submitted</b>b</p>  
 {% for post in site.publications reversed %}
   {% if post.type == "Submitted" %}
     {% include archive-single.html %}
