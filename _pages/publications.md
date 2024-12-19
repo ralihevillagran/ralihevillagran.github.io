@@ -18,9 +18,15 @@ author_profile: true
   {% if post.type == "Journal" %}
     {% include archive-single.html %}
   {% endif %}
+{% endfor %}
+
+{% for post in site.publications reversed %}
   {% if post.type == "Referred Conferences and Book Chapters" %}
     {% include archive-single.html %}
   {% endif %}
+{% endfor %}
+
+{% for post in site.publications reversed %}
   {% if post.type == "Submitted" %}
     {% include archive-single.html %}
   {% endif %}
