@@ -3,7 +3,7 @@ title: "Distinguishing graphs with two integer matrices**"
 collection: publications
 permalink: /publication/2023-09-26-Distinguishing-graphs-with-two-integer-matrices
 excerpt: 'Joint work with: C. A. Alfaro and Octavio Zapata'
-date: 
+date: 2023-01-01
 venue: 'ArXiV'
 paperurl: 'https://doi.org/10.48550/arXiv.2309.15365'
 citation: 'Carlos A. Alfaro, Ralihe R. Villagrán and Octavio Zapata. &quot;Distinguishing graphs with two integer matrices.&quot; <i>	arXiv:2309.15365</i>. (2023)'
