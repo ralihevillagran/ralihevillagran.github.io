@@ -6,7 +6,7 @@ excerpt: 'Joint work with: Carlos E. Valencia'
 date: 2022-05-01
 venue: 'Linear Algebra and its Applications'
 paperurl: 'https://doi.org/10.1016/j.laa.2022.01.020'
-citation: 'Carlos E. Valencia and Ralihe R. Villagrán. &quot; Algorithmic aspects of arithmetical structures.&quot; <i>Linear Algebra and its Applications</i>. 640 (2022), Pages 191-208.'
+citation: 'Carlos E. Valencia and Ralihe R. Villagrán. &quot; Algorithmic aspects of arithmetical structures.&quot; <i>Linear Algebra and its Applications</i>. 640 <b>(2022)</b>, Pages 191-208.'
 type: Journal
 ---
 
