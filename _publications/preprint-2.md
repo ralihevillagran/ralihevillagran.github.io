@@ -5,9 +5,8 @@ permalink: /publication/2024-08-05-Distance-ideals-of-digraphs
 excerpt: 'Joint work with: C. A. Alfaro, Teresa I. Hoekstra-Mendoza and Juan Pablo Serrano'
 date: 2024-01-01
 venue: 'ArXiV'
-paperurl: '
-https://doi.org/10.48550/arXiv.2408.02848'
-citation: 'Carlos A. Alfaro, Teresa I. Hoekstra-Mendoza, Juan Pablo Serrano and Ralihe R. Villagrán. &quot;Distance ideals of digraphs.&quot; <i>		arXiv:2408.02848</i>. (2024)'
+paperurl: 'https://doi.org/10.48550/arXiv.2408.02848'
+citation: 'Carlos A. Alfaro, Teresa I. Hoekstra-Mendoza, Juan Pablo Serrano and Ralihe R. Villagrán. &quot;Distance ideals of digraphs.&quot; <i>		arXiv:2408.02848</i>. <b>(2024)</b>'
 type: Submitted
 ---
 
