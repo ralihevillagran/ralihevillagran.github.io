@@ -6,7 +6,7 @@ excerpt: 'Joint work with: Carlos E. Valencia'
 date: 2023-09-19
 venue: 'São Paulo Journal of Mathematical Sciences'
 paperurl: 'https://doi.org/10.1007/s40863-022-00336-6'
-citation: 'Carlos E. Valencia Ralihe R. Villagrán. &quot;Arithmetical structures on dominated polynomials.&quot; <i>São Paulo Journal of Mathematical Sciences</i>. 17, (2023), pages 430-439.'
+citation: 'Carlos E. Valencia Ralihe R. Villagrán. &quot;Arithmetical structures on dominated polynomials.&quot; <i>São Paulo Journal of Mathematical Sciences</i>. 17, <b>(2023)</b>, pages 430-439.'
 type: Journal
 ---
 
