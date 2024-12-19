@@ -6,7 +6,7 @@ excerpt: 'Joint work with: C. A. Alfaro and Octavio Zapata'
 date: 2023-01-01
 venue: 'ArXiV'
 paperurl: 'https://doi.org/10.48550/arXiv.2309.15365'
-citation: 'Carlos A. Alfaro, Ralihe R. Villagrán and Octavio Zapata. &quot;Distinguishing graphs with two integer matrices.&quot; <i>	arXiv:2309.15365</i>. (2023)'
+citation: 'Carlos A. Alfaro, Ralihe R. Villagrán and Octavio Zapata. &quot;Distinguishing graphs with two integer matrices.&quot; <i>	arXiv:2309.15365</i>. <b>(2023)</b>'
 type: Submitted
 ---
 
