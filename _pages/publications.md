@@ -15,7 +15,13 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% if post.type == "type" %}
+  {% if post.type == "Journal" %}
+    {% include archive-single.html %}
+  {% endif %}
+  {% if post.type == "Referred Conferences and Book Chapters" %}
+    {% include archive-single.html %}
+  {% endif %}
+  {% if post.type == "Submitted" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
