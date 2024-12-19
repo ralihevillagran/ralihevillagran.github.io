@@ -6,7 +6,7 @@ excerpt: 'Joint work with: C. A. Alfaro, M. D. Barrus and J. Sinkovic'
 date: 2021-01-01
 venue: 'Extended Abstracts EuroComb 2021. Trends in Mathematics'
 paperurl: 'https://doi.org/10.1007/978-3-030-83823-2_91'
-citation: 'Carlos A. Alfaro, Michael D. Barrus, John Sinkovic and Ralihe R. Villagrán. (2021) &quot;Graphs with few trivial characteristic ideals.&quot; <i>Extended Abstracts EuroComb 2021. Trends in Mathematics,</i> vol 14. Birkhäuser, Cham.'
+citation: 'Carlos A. Alfaro, Michael D. Barrus, John Sinkovic and Ralihe R. Villagrán. <b>(2021)</b> &quot;Graphs with few trivial characteristic ideals.&quot; <i>Extended Abstracts EuroComb 2021. Trends in Mathematics,</i> vol 14. Birkhäuser, Cham.'
 type: Referred Conferences and Book Chapters 
 ---
 
