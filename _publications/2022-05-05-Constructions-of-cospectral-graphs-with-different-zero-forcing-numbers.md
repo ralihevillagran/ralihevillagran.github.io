@@ -7,7 +7,7 @@ date: 2022-05-05
 venue: 'Electronic Journal of Linear Algebra'
 paperurl: 'https://doi.org/10.13001/ela.2022.6737'
 citation: 'A. Abiad, B. Brimkov, J. Breen, T. R. Cameron, H. Gupta and  
-R. R. Villagrán. &quot;Constructions of cospectral graphs with different zero forcing numbers.&quot; <i> Electronic Journal of Linear Algebra</i>. 38 (2022), pp. 280-294.'
+R. R. Villagrán. &quot;Constructions of cospectral graphs with different zero forcing numbers.&quot; <i> Electronic Journal of Linear Algebra</i>. 38 <b>(2022)</b>, pp. 280-294.'
 type: Journal
 ---
 
