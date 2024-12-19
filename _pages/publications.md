@@ -18,14 +18,14 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<p>(*)Refereed conference</p>
+<p style="font-size:40px;">Refereed conference</p>
 {% for post in site.publications reversed %}
   {% if post.type == "Referred Conferences and Book Chapters" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<p>(**)Submitted</p>  
+<p style="font-size:40px;">Submitted</p>  
 {% for post in site.publications reversed %}
   {% if post.type == "Submitted" %}
     {% include archive-single.html %}
