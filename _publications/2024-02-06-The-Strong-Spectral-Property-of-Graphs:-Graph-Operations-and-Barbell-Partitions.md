@@ -6,7 +6,7 @@ excerpt: 'Joint work with: S. Allred, E. Curl, S. Fallat, S. Nasserasr, H. Schue
 date: 2024-02-06
 venue: 'Graphs and Combinatorics'
 paperurl: 'https://doi.org/10.1007/s00373-023-02745-6'
-citation: 'S. Allred, E. Curl, S. Fallat, S. Nasserasr, H. Schuerger, R. R. Villagrán and P. K. Vishwakarma. &quot;The Strong Spectral Property of Graphs: Graph Operations and Barbell Partitions.&quot; <i>Graphs and Combinatorics</i>. 40, 20 (2024).'
+citation: 'S. Allred, E. Curl, S. Fallat, S. Nasserasr, H. Schuerger, R. R. Villagrán and P. K. Vishwakarma. &quot;The Strong Spectral Property of Graphs: Graph Operations and Barbell Partitions.&quot; <i>Graphs and Combinatorics</i>. 40, 20 <b>(2024)</b>.'
 type: Journal
 ---
 
