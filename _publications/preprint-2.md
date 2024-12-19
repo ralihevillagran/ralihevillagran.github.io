@@ -3,7 +3,7 @@ title: "Distance ideals of digraphs**"
 collection: publications
 permalink: /publication/2024-08-05-Distance-ideals-of-digraphs
 excerpt: 'Joint work with: C. A. Alfaro, Teresa I. Hoekstra-Mendoza and Juan Pablo Serrano'
-date: 0002-01-01
+date: 2024-01-01
 venue: 'ArXiV'
 paperurl: '
 https://doi.org/10.48550/arXiv.2408.02848'
