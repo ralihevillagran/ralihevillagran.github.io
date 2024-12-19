@@ -8,7 +8,7 @@ venue: 'ArXiV'
 paperurl: '
 https://doi.org/10.48550/arXiv.2408.02848'
 citation: 'Carlos A. Alfaro, Teresa I. Hoekstra-Mendoza, Juan Pablo Serrano and Ralihe R. Villagrán. &quot;Distance ideals of digraphs.&quot; <i>		arXiv:2408.02848</i>. (2024)'
-type: Sumbitted
+type: Submitted
 ---
 
 We focus on strongly connected, strong for short, digraphs since in this setting distance is defined for every pair of vertices.
