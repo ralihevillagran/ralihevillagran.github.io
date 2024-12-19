@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile </a> and all preprint versions on <a href="https://arxiv.org/search/?query=ralihe&searchtype=all">arXiv</a>.
-  <p>(*)Refereed conference</p>
-  <p>(**)Submitted</p>   
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile </a> and all preprint versions on <a href="https://arxiv.org/search/?query=ralihe&searchtype=all">arXiv</a>. 
   </div> 
 {% endif %}
 
@@ -20,12 +18,14 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<p>(*)Refereed conference</p>
 {% for post in site.publications reversed %}
   {% if post.type == "Referred Conferences and Book Chapters" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
+<p>(**)Submitted</p>  
 {% for post in site.publications reversed %}
   {% if post.type == "Submitted" %}
     {% include archive-single.html %}
