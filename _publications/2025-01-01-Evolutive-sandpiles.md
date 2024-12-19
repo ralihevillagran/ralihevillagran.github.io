@@ -6,7 +6,7 @@ excerpt: 'Joint work with: Carlos A. Alfaro, Juan Pablo Serrano and Ralihe R. Vi
 date: 2025-01-01
 venue: 'Physica A: Statistical Mechanics and its Applications'
 paperurl: 'https://doi.org/10.1016/j.physa.2024.130248'
-citation: 'Carlos A. Alfaro, Juan Pablo Serrano and Ralihe R. Villagrán. &quot;Evolutive sandpiles.&quot; <i>Physica A: Statistical Mechanics and its Applications</i>. 657, (2025), 130248.'
+citation: 'Carlos A. Alfaro, Juan Pablo Serrano and Ralihe R. Villagrán. &quot;Evolutive sandpiles.&quot; <i>Physica A: Statistical Mechanics and its Applications</i>. 657, <b>(2025)</b>, 130248.'
 type: Journal
 ---
 
