@@ -1,5 +1,5 @@
 ---
-title: "Distinguishing graphs with two integer matrices**"
+title: "Distinguishing graphs with two integer matrices"
 collection: publications
 permalink: /publication/2023-09-26-Distinguishing-graphs-with-two-integer-matrices
 excerpt: 'Joint work with: C. A. Alfaro and Octavio Zapata'
