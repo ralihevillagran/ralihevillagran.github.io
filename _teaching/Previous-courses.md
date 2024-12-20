@@ -1,7 +1,7 @@
 ---
 title: "Previous Courses"
 collection: teaching
-type: "Undergraduate course"
+type: "Prev course"
 permalink: /teaching/#
 venue: 
 date: 2025-01-14
