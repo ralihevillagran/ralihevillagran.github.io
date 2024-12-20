@@ -53,9 +53,10 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}
-  <p>[Previous Courses](https://ralihevillagran.github.io/teaching/) </p>
-  </ul>
+  {% endfor %}</ul>
+  
+  *[Previous Courses](https://ralihevillagran.github.io/teaching/)
+  
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
