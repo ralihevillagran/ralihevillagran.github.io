@@ -23,6 +23,28 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+  {% include base_path %}
+<p style="font-size:20px;"><b>Journal publications</b></p>
+{% for post in site.publications reversed %}
+  {% if post.type == "Journal" %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+{% endfor %}
+
+<p style="font-size:20px;"><b>Refereed conference</b></p>
+{% for post in site.publications reversed %}
+  {% if post.type == "Referred Conferences and Book Chapters" %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+{% endfor %}
+
+<p style="font-size:20px;"><b>Submitted</b></p>  
+{% for post in site.publications reversed %}
+  {% if post.type == "Submitted" %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+{% endfor %}
+
 [//]: # (Service and leadership)
 [//]: #======
 [//]: # (*Currently signed in to 43 different slack teams)
@@ -45,6 +67,5 @@ Work experience
   * Mathematical Sciences Department, Worcester Polytechnic Institute (WPI)
 * Research Mentor: Bill Martin
 * Postdoctoral Researcher, June 2022 -May 2023
-  * Department of Mathematics and Computer Science, Eindhoven University of Tech-
-nology (TU/e)
+  * Department of Mathematics and Computer Science, Eindhoven University of Technology (TU/e)
   * Mentor: Aida Abiad
