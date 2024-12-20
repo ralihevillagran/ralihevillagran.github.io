@@ -2,7 +2,7 @@
 title: "Previous Courses"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/teaching
+permalink: /teaching/#
 venue: 
 date: 2025-01-14
 location: 
