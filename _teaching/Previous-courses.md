@@ -1,4 +1,3 @@
-
 ---
 title: "Previous Courses"
 collection: teaching
