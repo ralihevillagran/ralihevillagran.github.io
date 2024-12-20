@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  {% if post.type == "undergraduate course" %}
+  {% if post.type == "Undergraduate course" %}
     {% include archive-single.html %}
   {% endif %}  
 {% endfor %}
