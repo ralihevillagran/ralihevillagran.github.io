@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Calculus III (group 3)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Worcester Polytechnic Institute, Department of Mathematical Sciences"
+date: 2024-01-14
+location: "Worcester MA, USA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Course despcription:
 ======
+This course provides an introduction to series, parametric curves and vector algebra. Topics covered include: numerical methods, indeterminate forms, improper integrals, sequences, Taylor’s theorem with remainder, convergence of series and power series, polar coordinates, parametric curves and vector algebra.
 
-Heading 2
+Recommended Background:
 ======
+MA 1022. Although the course will make use of computers, no programming experience is assumed.
 
-Heading 3
-======
