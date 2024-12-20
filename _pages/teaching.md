@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Current course(s)
 
 {% include base_path %}
 
