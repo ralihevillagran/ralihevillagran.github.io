@@ -2,7 +2,7 @@
 title: "Calculus III (group 3)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Spring-C-term-2025-1
 venue: "Worcester Polytechnic Institute, Department of Mathematical Sciences"
 date: 2025-01-14
 location: "Worcester MA, USA"
