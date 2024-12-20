@@ -19,9 +19,6 @@ Education
 
 Publications
 ======
- [//]: <ul>{% for post in site.publications reversed %}
- [//]:  {% include archive-single-cv.html %}
- [//]: {% endfor %}</ul>
 
   {% include base_path %}
 <p style="font-size:20px;"><b>Journal publications</b></p>
@@ -55,7 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  *[Previous Courses](https://ralihevillagran.github.io/teaching/)
   
 Talks
 ======
