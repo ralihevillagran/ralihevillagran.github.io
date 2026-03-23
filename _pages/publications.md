@@ -18,7 +18,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<p style="font-size:25px;"><b>Refereed conference</b></p>
+<p style="font-size:25px;"><b>Refereed conference and Book chapters</b></p>
 {% for post in site.publications reversed %}
   {% if post.type == "Referred Conferences and Book Chapters" %}
     {% include archive-single.html %}
