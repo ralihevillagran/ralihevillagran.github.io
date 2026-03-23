@@ -63,7 +63,7 @@ Work experience
 ======
 * Postdoctotal Scholar, August 2023 - current position
   * Mathematical Sciences Department, Worcester Polytechnic Institute (WPI)
-* Research Mentor: Bill Martin
+* Research Mentor: [Bill Martin](https://scholar.google.com/citations?hl=en&user=xd6XQEAAAAAJ)
 * Postdoctoral Researcher, June 2022 -May 2023
   * Department of Mathematics and Computer Science, Eindhoven University of Technology (TU/e)
-  * Mentor: Aida Abiad
+  * Mentor: [Aida Abiad](https://scholar.google.com/citations?hl=es&user=5xYH-doAAAAJ)
