@@ -46,18 +46,18 @@ Publications
 [//]: #======
 [//]: # (*Currently signed in to 43 different slack teams)
 
-<!--Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>-->
+  {% endfor %}</ul>
   
   
-Talks
+<!--TTalks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Work experience
 ======
