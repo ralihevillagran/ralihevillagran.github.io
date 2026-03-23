@@ -1,5 +1,3 @@
-\item[b.] (with C. A. Alfaro, J. P. Serrano and T. I. Hoekstra-Mendoza) \textbf{\textit{Graphs with two trivial distance ideals over the polynomial ring with integer coefficients}}, \href{https://doi.org/10.1145/3747199.3747577}{in International Symposium on Symbolic and Algebraic Computation (2025) (ISSAC '25). \aiDoi} ACM, New York, NY, USA.
-
 ---
 title: "Graphs with two trivial distance ideals over the polynomial ring with integer coefficients"
 collection: publications
