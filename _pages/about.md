@@ -12,7 +12,7 @@ Hello! My name is Ralihe (Pronunciation in spanish: <a href="https://ipa-reader.
 ## News
 * I will participate in the 2026 edition of the Graduate Research Workshop in Combinatorics (GRWC), Iowa State University.
 * Speaking at "Fundamentals and Applications of Commutative Algebra: Conference in Honor of Rafael H. Villarreal on the Occasion of his 75th Birthday", Cinvestav, Mexico City, June 7-12, 2026
-* Invited as plenary speaker at 2026 New York Graph Theory Workshop, CUNY Graduate Center, May 26-28, 2026
+* Invited as keynote speaker at 2026 New York Graph Theory Workshop, CUNY Graduate Center, May 26-28, 2026
 * I am co-organizing a Minisymposia Session on 'Algebraic Invariants of Graphs'	at the 27th Conference of the International Linear Algebra Society.
 * Attending the 2026 NSF-CBMS conference: Strong Matrix Properties and the Inverse Eigenvalue Problem, Eastern Michigan University, Ypsilanti, Michigan USA, May 11-15, 2026
 * Attended the "Algebraic Graph Theory and Applications" workshop, BIRS, Banff, Canada, Oct 2025.
