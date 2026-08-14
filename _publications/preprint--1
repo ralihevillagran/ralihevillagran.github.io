@@ -1,1 +1,13 @@
+---
+title: The Smith normal form of Laplacian matrices of simplicial annuli and high dimensional trees
+collection: publications
+permalink: /publication/2026-07-26-The-Smith-normal-form-of-Laplacian-matrices-of-simplicial-annuli-and-high-dimensional-trees
+excerpt: 'Joint work with: Carlos A. Alfaro, Jesús Uriel Medrano, Juan Pablo Serrano and Iván Téllez Téllez'
+date: 2026-07-26
+venue: 'ArXiV'
+paperurl: 'https://doi.org/10.48550/arXiv.2607.23506'
+citation: 'Carlos A. Alfaro, Jesús Uriel Medrano, Juan Pablo Serrano, Iván Téllez Téllez and Ralihe R. Villagrán. &quot;The Smith normal form of Laplacian matrices of simplicial annuli and high dimensional trees&quot; <i>	arXiv:2607.23506</i>. <b>(2026)</b>'
+type: Submitted
+---
 
+Inspired by the generalization of the formula of determinant of the distance matrix of trees to k-trees, we study the Smith normal form of Laplacian matrices associated with some simplicial complexes. We find relations between sandpile groups of adjacency graphs and the Smith normal form of Laplacian matrices of simplicial complexes. We use such relations to calculate the Smith normal form of the highest Laplacian matrix of simplicial annuli and k-trees. %The low dimensional cases seems to be more difficult to calculate. We also provide numerical experiments to visualize how good are these algebraic invariants to distinguish k-trees. Finally, we point out that the Graham-Lovász-Pollak matrix, used to compute the determinant of the distance matrix of trees, can be used in the context of Laplacian matrices of trees and block graphs.
